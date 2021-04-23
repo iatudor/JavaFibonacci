@@ -5,7 +5,7 @@ public class Fibonacci {
     int limite = Integer.parseInt(args[0]);
 
     for (int i = 0; i < limite; i++) {
-      System.out.print(fibonacci(i) + " ");
+      Systm.out.print(fibonacci(i) + " ");
     }
   }
 
